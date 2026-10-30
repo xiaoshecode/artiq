@@ -28,3 +28,13 @@ Website: https://m-labs.hk/artiq
 `Cite ARTIQ <http://dx.doi.org/10.5281/zenodo.51303>`_ as ``Bourdeauducq, Sébastien et al. (2016). ARTIQ 1.0. Zenodo. 10.5281/zenodo.51303``.
 
 Copyright (C) 2014-2023 M-Labs Limited. Licensed under GNU LGPL version 3+.
+
+维护与在线文档
+================
+
+本仓库是 https://github.com/m-labs/artiq 的 Fork，保留上游来源与许可。
+
+* `在线维护文档 <https://xiaoshecode.github.io/xiaoshecode/repos/artiq/>`_
+* `本仓库维护说明 <https://github.com/xiaoshecode/artiq/blob/master/MAINTENANCE.md>`_：目录、使用方法、检查结果及未验证范围。
+
+2026-10-30 的检查仅覆盖维护说明列出的项目；语法解析不代表硬件或功能验收。

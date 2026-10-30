@@ -61,3 +61,13 @@ The following statements are intended to clarify the interpretation and applicat
 * Other features, changes, and additions are considered modifications of ARTIQ and inherit the LGPLv3+. Those include for example adding new RTIO ``Phys``, compiler optimizations, compiler features, ports of the compiler to other target CPUs, dashboard or browser features that are not in applets, as well as scheduler, master and runtime modifications.
 * Analogously to the established practice in the Linux kernel, we do not consider components that are developed and used independently to be modifications of ARTIQ.
 * For example, when developing a ``Phy`` for an independently developed and used gateware component, that gateware component is not considered a modification of ARTIQ (but the ``Phy`` is).
+
+维护与在线文档
+================
+
+本仓库是 https://github.com/m-labs/artiq 的 Fork，保留上游来源与许可。
+
+* `在线维护文档 <https://xiaoshecode.github.io/xiaoshecode/repos/artiq/>`_
+* `本仓库维护说明 <MAINTENANCE.md>`_：目录、使用方法、检查结果及未验证范围。
+
+2026-10-30 的检查仅覆盖维护说明列出的项目；语法解析不代表硬件或功能验收。
